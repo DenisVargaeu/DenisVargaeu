@@ -18,7 +18,7 @@ Som mladý programátor so záujmom o vývoj webových aplikácií, hier a softv
 - **🎮 Webové hry - Tycoon a Tower Defense**
 - **🌐 Webový prehliadač ako stránka**
 ## 📫 Kontakt
-- **Email:** *(dopíš svoj email, ak chceš)*
+- **Email:** *(mail@denisvarga.eu)*
 - **YouTube:** [DexasStudio](https://www.youtube.com/@DexasStudio_official)
 - **Web:** *(https://denisvarga.eu)*
 
