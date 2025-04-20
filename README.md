@@ -1,25 +1,18 @@
-# 👋 Ahoj, ja som Denis!
+# 💫 About Me:
+Ahoj! Volám sa Denis a som mladý programátor.<br>Od malička ma fascinovali technológie a dnes sa venujem tvorbe webových stránok, aplikácií a rôznym projektom na Raspberry Pi. Rád programujem v jazykoch ako HTML, CSS, PHP a postupne sa zdokonaľujem aj v Pythone.<br><br>Okrem programovania som kreatívny a zvedavý – baví ma skúšať nové veci, ako napríklad vytvoriť vlastný operačný systém, antivírus alebo webovú hru. Svoj voľný čas trávim aj tvorbou projektov, ktoré spájam s mojou fantáziou, ako napríklad mapy z dovoleniek, matematické aplikácie alebo rôzne tycoon hry.<br><br>Na mojich Raspberry Pi zariadeniach mi vždy bliká LEDka, pretože každý projekt má žiariť tak ako moje nápady! 😄<br><br>Momentálne pracujem na mojom vlastnom operačnom systéme s názvom progOS, ktorý je zameraný na programovanie a učenie sa. Bude podporovať FTP, MySQL a mnoho ďalších nástrojov pre vývojárov. Cieľom je, aby bežal na Raspberry Pi aj bežných počítačoch s minimálnymi požiadavkami.<br><br>Mojím snom je stále sa zlepšovať, učiť nové veci a raz vytvoriť niečo veľké, čo pomôže aj ostatným.
 
-Som mladý programátor so záujmom o vývoj webových aplikácií, hier a softvéru. Rád experimentujem s rôznymi technológiami a neustále sa učím nové veci.
 
-## 🚀 Čomu sa venujem?
-- Web development (PHP, HTML, CSS, JavaScript)
-- Backend s MySQL databázami
-- Programovanie v Pythone a tvorba vlastného programovacieho jazyka
-- Vývoj hier (farmárska tycoon hra, Tower Defense)
-- Projekty s Raspberry Pi a Arduino
-- Správa webových stránok a databáz
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DenisVarga&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DenisVarga&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DenisVarga&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📌 Moje projekty
-- **💰 Webová aplikácia na správu financií**
-- **🌍 Stránka s mapou mojich ciest**
-- **📷 WiFi kamera s Raspberry Pi a kamerou Sencor**
-- **🖥️ Operačný systém pre programátorov**
-- **🎮 Webové hry - Tycoon a Tower Defense**
-- **🌐 Webový prehliadač ako stránka**
-## 📫 Kontakt
-- **Email:** *(mail@denisvarga.eu)*
-- **YouTube:** [DexasStudio](https://www.youtube.com/@DexasStudio_official)
-- **Web:** *(https://denisvarga.eu)*
 
-Ak ťa zaujímajú moje projekty, určite si ich pozri a neváhaj ma kontaktovať! 😊
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/denisvargaeuofficial?country.x=SK&locale.x=en_US) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
