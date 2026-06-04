@@ -14,7 +14,7 @@ I'm a self-taught developer with a passion for creating **websites, applications
 - 🎮 Combining creativity with programming
 - 🤖 Bringing ideas to life through code and hardware
 
-**Currently building:** **ProgOS** – An operating system designed for developers and learners, optimized for Raspberry Pi and minimal-resource computers with FTP, MySQL, and essential developer tools.
+**Currently building:** **OBJSIS** – A powerful object-oriented system designed to make programming more intuitive and efficient across multiple platforms and use cases.
 
 > *"On my Raspberry Pi devices, the LED always blinks because every project should shine just like my ideas!"* 🌟
 
@@ -41,18 +41,18 @@ I'm a self-taught developer with a passion for creating **websites, applications
 
 ## 🎯 Featured Projects
 
-### ProgOS – Developer-Focused Operating System
-An innovative OS designed for programmers and learners, featuring:
-- 🚀 Optimized for Raspberry Pi & low-resource devices
-- 🔧 Built-in FTP & MySQL support
-- 💻 Essential developer tools & utilities
-- 📚 Learning-focused environment
+### OBJSIS – Object-Oriented System Innovation
+A revolutionary project designed to enhance programming efficiency through:
+- 🎯 Intuitive object-oriented architecture
+- 🚀 Cross-platform compatibility
+- 💼 Enterprise-grade solutions
+- 📚 Developer-friendly ecosystem
 
 ---
 
 ## 🌱 What I'm Learning
 
-- Advanced system architecture & OS design
+- Advanced system architecture & design patterns
 - Full-stack web development
 - Cloud infrastructure & containerization
 - AI/ML integration in applications
