@@ -76,14 +76,6 @@ I'm always excited to collaborate on interesting projects, discuss new ideas, or
 
 ---
 
-## 🤝 Support My Work
-
-If you find my projects useful or want to support my development journey, I'd be grateful:
-
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/denisvargaeuofficial?country.x=SK&locale.x=en_US)
-
----
-
 <div align="center">
 
 **Made with ❤️ by Denis**
